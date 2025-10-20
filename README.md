@@ -1,2 +1,0 @@
-# eWallet
-Boost eWallet
